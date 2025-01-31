@@ -1,0 +1,81 @@
+<annotation>
+    <folder>pytorch-ssd</folder>
+    <filename>Image_60.jpg</filename>
+    <path>/media/nsl3090/hdd1/shahnawaz/object_detection_nano/pytorch-ssd/Image_60.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2560</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>26</ymin>
+            <xmax>910</xmax>
+            <ymax>984</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>330</xmin>
+            <ymin>823</ymin>
+            <xmax>1223</xmax>
+            <ymax>1602</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1135</xmin>
+            <ymin>731</ymin>
+            <xmax>2065</xmax>
+            <ymax>1678</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>943</xmin>
+            <ymin>113</ymin>
+            <xmax>1473</xmax>
+            <ymax>958</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1379</xmin>
+            <ymin>231</ymin>
+            <xmax>2152</xmax>
+            <ymax>901</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2071</xmin>
+            <ymin>773</ymin>
+            <xmax>2542</xmax>
+            <ymax>1816</ymax>
+        </bndbox>
+    </object>
+</annotation>

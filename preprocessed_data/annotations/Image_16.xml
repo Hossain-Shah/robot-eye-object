@@ -1,0 +1,70 @@
+<annotation>
+    <folder>pytorch-ssd</folder>
+    <filename>Image_16.jpg</filename>
+    <path>/media/nsl3090/hdd1/shahnawaz/object_detection_nano/pytorch-ssd/Image_16.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>225</xmin>
+            <ymin>254</ymin>
+            <xmax>588</xmax>
+            <ymax>658</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>792</xmin>
+            <ymin>440</ymin>
+            <xmax>1183</xmax>
+            <ymax>870</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>528</xmin>
+            <ymin>195</ymin>
+            <xmax>923</xmax>
+            <ymax>558</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>522</ymin>
+            <xmax>439</xmax>
+            <ymax>866</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>424</xmin>
+            <ymin>537</ymin>
+            <xmax>791</xmax>
+            <ymax>952</ymax>
+        </bndbox>
+    </object>
+</annotation>

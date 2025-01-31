@@ -1,0 +1,125 @@
+<annotation>
+    <folder>pytorch-ssd</folder>
+    <filename>Image_19.jpg</filename>
+    <path>/media/nsl3090/hdd1/shahnawaz/object_detection_nano/pytorch-ssd/Image_19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>8</xmin>
+            <ymin>176</ymin>
+            <xmax>406</xmax>
+            <ymax>541</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>298</ymin>
+            <xmax>633</xmax>
+            <ymax>698</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>445</xmin>
+            <ymin>98</ymin>
+            <xmax>810</xmax>
+            <ymax>459</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>597</ymin>
+            <xmax>394</xmax>
+            <ymax>975</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>5</xmin>
+            <ymin>26</ymin>
+            <xmax>198</xmax>
+            <ymax>212</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>615</xmin>
+            <ymin>666</ymin>
+            <xmax>989</xmax>
+            <ymax>993</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>619</xmin>
+            <ymin>423</ymin>
+            <xmax>911</xmax>
+            <ymax>653</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>822</xmin>
+            <ymin>147</ymin>
+            <xmax>986</xmax>
+            <ymax>419</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>586</xmin>
+            <ymin>5</ymin>
+            <xmax>920</xmax>
+            <ymax>146</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>onion</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>161</xmin>
+            <ymin>2</ymin>
+            <xmax>616</xmax>
+            <ymax>218</ymax>
+        </bndbox>
+    </object>
+</annotation>
